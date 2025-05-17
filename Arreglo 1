@@ -1,0 +1,14 @@
+arreglo=[ ]
+n=6
+For(let i= 0 j i <n j i tt)
+arreglo.push (prompt ("ingrese numero")
+console.log (arreglo)
+For (let i=0 j i < arreglo.length j i tt)
+Sumt =arreglo [i]
+console.log (sum)
+console.log (sum/n)
+let my= arreglo [0]
+For (let + i=1 < arreglo.length j i tt)
+if (arreglo) [i] > (my)
+my=arreglo [i]
+console.log (my)
